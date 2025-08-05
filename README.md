@@ -1,6 +1,6 @@
-# ** Salescope -An E-Commerce-Analysis**  
+# 📈 Salescope -An E-Commerce-Analysis  
 
-## 📦 Project Overview
+## Project Overview
 
 This project presents a comprehensive analysis of the **order fulfillment process** for an e-commerce business, focusing on:
 
@@ -12,13 +12,13 @@ This project presents a comprehensive analysis of the **order fulfillment proces
 
 Using **advanced SQL techniques** and **Python-based data visualization**, the project uncovers actionable insights to:
 
-- 📈 **Boost sales**
-- 🚚 **Streamline logistics**
-- 😊 **Enhance customer satisfaction**
+-  **Boost sales**
+-  **Streamline logistics**
+-  **Enhance customer satisfaction**
 
 ---
 
-## 🔧 **Technologies Used**  
+##  **Technologies Used**  
 - **Database**: SQLite  
 - **Query Language**: SQL  
 - **Data Processing**: Pandas  
@@ -27,7 +27,7 @@ Using **advanced SQL techniques** and **Python-based data visualization**, the p
 
 ---
 
-## 📂 **Dataset Overview**  
+##  **Dataset Overview**  
 - **Source**: E-Commerce transaction records with **51,290 rows** and **16 columns**  
 - **Data Transformation**: The raw dataset was **normalized into four tables** for efficient querying:
   - `Orders` – Order details, including sales, profit, and shipping costs.  
@@ -37,7 +37,7 @@ Using **advanced SQL techniques** and **Python-based data visualization**, the p
 
 ---
 
-## 🚀 **Advanced SQL Techniques Used**  
+## **Advanced SQL Techniques Used**  
 This project incorporates **Advanced SQL Techniques** to improve query performance, simplify analysis, and generate powerful insights:  
 
 ### **1️⃣ Window Functions**  
@@ -58,7 +58,7 @@ This project incorporates **Advanced SQL Techniques** to improve query performan
 
 ---
 
-# 📊 Business Insights & Recommendations
+#  Business Insights & Recommendations
 
 ## 🔹 Key Highlights
 
@@ -71,33 +71,33 @@ This project incorporates **Advanced SQL Techniques** to improve query performan
 
 ---
 
-## 🔍 Insights
+##  Insights
 
-### 🛍️ Sales & Products
+###  Sales & Products
 - Peak seasonal demand in **May** and **November**
 - Bundle slow-moving items with bestsellers to boost overall sales
 
-### 👥 Customer Behavior
+###  Customer Behavior
 - Male users dominate high-spending segment  
 - Targeted offers + VIP loyalty program = better retention
 
-### 🚚 Fulfillment & Logistics
+###  Fulfillment & Logistics
 - High-priority shipping = higher costs  
 - Promote **bulk orders** and **standard delivery** to optimize logistics
 
-### 💳 Payments
+###  Payments
 - Low e-wallet usage → incentivize with **cashbacks**
 - Introduce **Buy Now, Pay Later (BNPL)** to reduce cart abandonment
 
 ---
 
-## 💡 Business Recommendations
+##  Business Recommendations
 
-- ⚙️ **Automate** warehouse ops (Current avg. time: 5.25 days)
-- 🎯 Launch **targeted seasonal promotions**
-- 🏅 Implement **loyalty programs** & personalized offers
-- 📦 Offer **free shipping for bulk**; optimize courier partnerships
-- 💸 Boost e-wallet adoption & add **BNPL options**
+-  **Automate** warehouse ops (Current avg. time: 5.25 days)
+-  Launch **targeted seasonal promotions**
+-  Implement **loyalty programs** & personalized offers
+-  Offer **free shipping for bulk**; optimize courier partnerships
+-  Boost e-wallet adoption & add **BNPL options**
 
 ---
 
